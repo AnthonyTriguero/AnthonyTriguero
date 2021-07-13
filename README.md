@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony Triguero</h1>
 
-<h3 align="center">node.js and Python developer.</h3>
+<h3 align="center">Node.js and Python developer.</h3>
 
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=AnthonyTriguero&color=dcc300">
