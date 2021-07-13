@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AnthonyTriguero</h1>
+<h1 align="center">Hi 👋, I'm Anthony Triguero</h1>
 
 <h3 align="center">node.js and Python developer.</h3>
 
@@ -26,4 +26,6 @@
 <p>
   @2108Anthony
 </p>
+
+
 
