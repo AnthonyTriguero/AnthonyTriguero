@@ -2,8 +2,7 @@
 <h3 align="center">Node.js and Python Developer</h3>
 
 <p align="center">
-  Backend | Automation | APIs | Full Stack Development
-</p>
+  Backend | Automation | APIs | Full Stack Development | QA engineer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnthonyTriguero&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
