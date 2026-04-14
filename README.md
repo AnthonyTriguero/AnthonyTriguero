@@ -16,7 +16,7 @@
 - Interested in backend, automation, and scalable solutions
 
 ### Tech Stack
-Node.js · Python · JavaScript · TypeScript · MongoDB · Express · HTML · CSS · Git
+Node.js · Python · JavaScript · TypeScript · MongoDB · Express · HTML · CSS · Git . Oracle
 
 ### Contact
 X/Twitter: [@2108Anthony](https://twitter.com/2108Anthony)
